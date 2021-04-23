@@ -147,7 +147,7 @@ const _TraceCustomVisualizations = (props: TraceCustomVisualizationsProps) => {
 		}
 	};
 
-	return (
+	return ( 
 		<Card>
 			{/* <Space direction="vertical"> */}
 			<div>Custom Visualizations</div>
